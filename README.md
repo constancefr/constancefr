@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hi there, I'm Constance!
 
+I'm a new student at the University of Edinburgh, embarking on my MSc in Computer Science 💻🤓.
+I'm excited to learn more about data, machine learning and computer graphics with the ambition of finding ways to combine those in biomedical applications!  
+
+Aside from class, I love meeting people with ideas different from mine, which is why I am getting involved in the entrepreneurial world. I'm also an amateur (although certainly good) baker 🍰, a climber 🧗‍♀️, and a traveller 🌍.  
+
+Here's to the many challenging and exciting projects to come!
 <!--
 **constancefr/constancefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
