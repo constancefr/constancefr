@@ -1,9 +1,7 @@
 ### Hi there, I'm Constance!
 
-I'm a new student at the University of Edinburgh, embarking on my MSc in Computer Science 💻🤓.
-I'm excited to learn more about data, machine learning and computer graphics with the ambition of finding ways to combine those in biomedical applications!  
-
-Aside from class, I love meeting people with ideas different from mine, which is why I am getting involved in the entrepreneurial world. I'm also an amateur (although certainly good) baker 🍰, a climber 🧗‍♀️, and a traveller 🌍.  
+I'm a student at the University of Edinburgh powering through my MSc in Computer Science 💻🤓.
+I'm excited to learn more about machine learning and computer graphics and all ways of combining combine them. My latest interests revolve around biomedical imaging!  
 
 Here's to the many challenging and exciting projects to come! 🥳
 <!--
